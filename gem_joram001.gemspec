@@ -6,10 +6,10 @@ require 'gem_joram001/version'
 Gem::Specification.new do |spec|
   spec.name          = "gem_joram001"
   spec.version       = GemJoram001::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Joram Zhang"]
+  spec.email         = ["569447575@qq.com"]
+  spec.summary       = %q{My First Test Gem}
+  spec.description   = %q{For my practise}
   spec.homepage      = ""
   spec.license       = "MIT"
 
